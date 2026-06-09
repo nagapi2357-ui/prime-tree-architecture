@@ -295,7 +295,7 @@ We dedicate this paper to Jan Oprins, whose bamboo taught us more than we knew a
 
 ## Appendix A: Computational Details
 
-All code is available at: `projects/prime-tree/`
+All code is available at: [github.com/nagapi2357-ui/prime-tree-architecture](https://github.com/nagapi2357-ui/prime-tree-architecture)
 
 - `prime_tree.py` — Three-mode tree (torsion bridge, mod 24, harmonic ratio)
 - `prime_tree_ras.py` — RAS shapes as cross-sections, morphology table, gallery
